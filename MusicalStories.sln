@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalStories", "MusicalStories\MusicalStories.csproj", "{FF213F7E-ED3F-4ADD-BA91-0A3F6D035F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalStories.Tests", "MusicalStories.Tests\MusicalStories.Tests.csproj", "{98D5439B-87C7-47B8-87D0-BCD923B64D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF213F7E-ED3F-4ADD-BA91-0A3F6D035F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF213F7E-ED3F-4ADD-BA91-0A3F6D035F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF213F7E-ED3F-4ADD-BA91-0A3F6D035F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF213F7E-ED3F-4ADD-BA91-0A3F6D035F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D5439B-87C7-47B8-87D0-BCD923B64D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D5439B-87C7-47B8-87D0-BCD923B64D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D5439B-87C7-47B8-87D0-BCD923B64D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D5439B-87C7-47B8-87D0-BCD923B64D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8036AE87-16F6-4643-8AC8-A3D5E4F168FD}
+	EndGlobalSection
+EndGlobal
